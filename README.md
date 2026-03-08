@@ -1,5 +1,8 @@
 # TwinMind
 
+## Demo Video Link
+Link: https://drive.google.com/file/d/1bNQ-Hd0ybS2HJEtjN4FBNyzZAR2DWH8V/view?usp=sharing
+
 ## Overview
 TwinMind is a robust Android voice recording and intelligent notes application built with Kotlin, Jetpack Compose, and MVVM Clean Architecture. It records audio locally in chunks, processes transcriptions in the background, and utilizes the Google Gemini API to generate structured meeting summaries. 
 
